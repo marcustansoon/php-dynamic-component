@@ -1,7 +1,7 @@
 {
     "name": "marcustansoon/php-dynamic-component",
     "type": "library",
-    "description": "Make your website content interactive + dynamic",
+    "description": "Make your PHP website content interactive + dynamic",
     "keywords": ["php","dynamic","component","interactive", "marcustansoon"],
     "homepage": "",
     "license": "MIT",
