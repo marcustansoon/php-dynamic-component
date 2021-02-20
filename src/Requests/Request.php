@@ -1,6 +1,6 @@
 <?php
 
-namespace marcustansoon;
+namespace marcustansoon\Requests\Request;
 
 class Request{
 
