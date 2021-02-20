@@ -1,16 +1,20 @@
 {
     "name": "marcustansoon/php-dynamic-component",
     "type": "library",
-    "description": "Your package description goes here",
+    "description": "Make your website content interactive + dynamic",
     "keywords": ["php","dynamic","component","interactive", "marcustansoon"],
     "homepage": "",
     "license": "MIT",
     "authors": [
         {
             "name": "Marcus Tan",
-            "email": "marcus@neudimenxion.com",
-            "homepage": "",
+            "email": "marcustansoon@hotmail.com"
             "role": "Developer"
         }
     ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"marcustansoon\\": "src/"}
+    },
+    "require": {}
 }
