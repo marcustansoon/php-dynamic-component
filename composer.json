@@ -1,0 +1,16 @@
+{
+    "name": "marcustansoon/php-dynamic-component",
+    "type": "library",
+    "description": "Your package description goes here",
+    "keywords": ["php","dynamic","component","interactive", "marcustansoon"],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcus Tan",
+            "email": "marcus@neudimenxion.com",
+            "homepage": "",
+            "role": "Developer"
+        }
+    ],
+}
